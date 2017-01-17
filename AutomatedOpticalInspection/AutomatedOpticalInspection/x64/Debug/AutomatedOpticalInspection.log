@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ronald\documents\visual studio 2015\projects\automatedopticalinspection\automatedopticalinspection\source.cpp(114): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  AutomatedOpticalInspection.vcxproj -> C:\Users\Ronald\Documents\Visual Studio 2015\Projects\AutomatedOpticalInspection\x64\Debug\AutomatedOpticalInspection.exe
